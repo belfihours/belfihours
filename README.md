@@ -3,7 +3,7 @@
 ### 🏯 About me :
 I am a Software Engineer and full-stack Developer, more focused on Back-End side
 - 💻 Currently working on becoming a more skilful back-end developer
-- 💬 Ask me about Test Driven Development ("Did you test it?" is my Mantra)
+- 🗣️ "Did you test it?" is my Mantra, TDD enjoyer
 
 ### 🛠️ Languages and Tools :
 <div>
